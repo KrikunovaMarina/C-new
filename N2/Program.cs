@@ -1,8 +1,10 @@
 ﻿//Number2
-int a = -9;
-int b = -3;
-int max = a;
-if ( a > max) max = a;
-if ( b > max) max = b;
-Console.Write("max = ");
+Console.WriteLine("Введите первое число ");
+int numberA = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите второе число ");
+int numberB = int.Parse(Console.ReadLine());
+int max = numberA;
+if ( numberA > max) max = numberA;
+if (numberB > max) max = numberB;
+ Console.Write("max = ");
 Console.WriteLine(max);
