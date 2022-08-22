@@ -1,0 +1,15 @@
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\N8.csproj.AssemblyReference.cache
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\N8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\N8.AssemblyInfoInputs.cache
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\N8.AssemblyInfo.cs
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\N8.csproj.CoreCompileInputs.cache
+C:\Users\kalex\Desktop\Марина\Les1\N8\bin\Debug\net6.0\N8.exe
+C:\Users\kalex\Desktop\Марина\Les1\N8\bin\Debug\net6.0\N8.deps.json
+C:\Users\kalex\Desktop\Марина\Les1\N8\bin\Debug\net6.0\N8.runtimeconfig.json
+C:\Users\kalex\Desktop\Марина\Les1\N8\bin\Debug\net6.0\N8.dll
+C:\Users\kalex\Desktop\Марина\Les1\N8\bin\Debug\net6.0\N8.pdb
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\N8.dll
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\refint\N8.dll
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\N8.pdb
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\N8.genruntimeconfig.cache
+C:\Users\kalex\Desktop\Марина\Les1\N8\obj\Debug\net6.0\ref\N8.dll
